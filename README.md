@@ -1,4 +1,3 @@
-# Risk-Analytics-with-Monte-Carlo-Simulations
 # Risk Analytics with Monte Carlo Simulations
 
 ## Overview
