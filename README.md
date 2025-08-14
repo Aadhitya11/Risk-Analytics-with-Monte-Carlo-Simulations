@@ -19,5 +19,3 @@ Uses Monte Carlo simulations to estimate portfolio risk metrics (VaR/CVaR) and s
 ## Results
 - Fat-tailed distributions better captured extreme losses than Gaussian.
 - Generated clear visualizations of simulated return distributions.
-
-## Repository Structure
